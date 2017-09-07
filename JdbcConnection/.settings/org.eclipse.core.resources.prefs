@@ -1,0 +1,4 @@
+eclipse.preferences.version=1
+encoding//src/example/dao/book/BookJdbcDao.java=UTF-8
+encoding//src/example/servlet/book/FindServlet.java=UTF-8
+encoding//src/example/servlet/book/UpdateServlet.java=UTF-8
